@@ -1,2 +1,4 @@
-# Small_Python_Project
-Some python projects
+# Small Python Project
+
+Here are some python project i did.
+
